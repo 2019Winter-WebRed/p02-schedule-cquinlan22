@@ -1,0 +1,20 @@
+/*
+* Cara Quinlan
+* Due date
+* Project Name and Description
+*/
+
+/* The universal selector */
+
+
+/* Body attributes here */
+
+body {
+    background-color: lightcyan;
+}
+table,td,th { border:1px solid lightpink; }
+
+table { border-collapse:collapse; }
+
+thead { background-color:skyblue; }
+tfoot { background-color:plum;}
